@@ -3,13 +3,14 @@ import 'firebase/firestore'
 import 'firebase/auth'
 
 const config = {
-  apiKey: 'AIzaSyCdHT-AYHXjF7wOrfAchX4PIm3cSj5tn14',
-  authDomain: 'crwn-db.firebaseapp.com',
-  databaseURL: 'https://crwn-db.firebaseio.com',
-  projectId: 'crwn-db',
-  storageBucket: 'crwn-db.appspot.com',
-  messagingSenderId: '850995411664',
-  appId: '1:850995411664:web:7ddc01d597846f65',
+  apiKey: 'AIzaSyCT3PGP00vBqc2onKlnGobClNYloJpTKcg',
+  authDomain: 'react-ecommerce-57ddf.firebaseapp.com',
+  databaseURL: 'https://react-ecommerce-57ddf.firebaseio.com',
+  projectId: 'react-ecommerce-57ddf',
+  storageBucket: 'react-ecommerce-57ddf.appspot.com',
+  messagingSenderId: '450413241265',
+  appId: '1:450413241265:web:2a922f6f38ff8240011390',
+  measurementId: 'G-HV74SLZHSV',
 }
 
 firebase.initializeApp(config)
